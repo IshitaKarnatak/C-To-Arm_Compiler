@@ -59,7 +59,7 @@ This cross-compiler translates C code into ARM machine code, enabling developers
 
 ### Clone Repo 
 ```bash
-  git clone <https://github.com/Ayush-2404/C-to-Arm_Compiler.git>
+  git clone <https://github.com/IshitaKarnatak/C-To-Arm_Compiler>
   cd project-root
 ```
 
